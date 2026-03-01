@@ -37,6 +37,7 @@ Supports:
 • Dynamic result calculation
 • Error handling (e.g., division by zero)
 • Real-time UI update after evaluation
+• RegExp using
 
 ---
 
