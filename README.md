@@ -1,20 +1,103 @@
-# Calculator App By Zabi
+# 🧮 Flutter Calculator App
 
+A clean and responsive Calculator Application built using **Flutter**.
+This project focuses on implementing arithmetic logic, state handling, UI design, and user interaction in a structured Flutter application.
 
-Written By Muhammad Zohaib, A calculator Project, Improving Functionalities. Working With Flutter, Means Flirting With Flutter, 
-Implementing Data Structures, and Through these DS making a full fledged Calculations performing On Calculator.
+The calculator performs real-time mathematical operations with a smooth and minimal user interface.
 
-# Getting Started
+---
 
-This project is a starting point for a Flutter application. It Includes Main File, which is a Core File, next to it different files and, Getting and sending Data Among these Files.
-This Project is not only the basic, but it is a capstone project, with exception handling and Prestigious Calculations, such as divide by zero, and More.
-You can Check it by downloading the repo and run it in your own Computer, 
+# 📱 Application Screens
 
-# Flutter Command
-Flutter Create yourAppName - Use to create Apps
+## 🏠 1️⃣ Main Calculator Interface
 
-# Dart Dev Tools
+• Clean button grid layout
+• Display screen for input & result
+• Responsive design
+• Basic arithmetic operations
 
-Provide Necessary Tools for debugging and inspecting through various things, and also analyzing widget tree and more.
+![Calculator Home](screenshots/file0.png)
 
+---
 
+## ➕ 2️⃣ Performing Operations
+
+Supports:
+
+• Addition (+)
+• Subtraction (−)
+• Multiplication (×)
+• Division (÷)
+• Decimal operations
+• Clear (C) & Delete (⌫) functions
+
+![Calculator Operation](screenshots/file1.png)
+
+---
+
+## 🧠 3️⃣ Result Evaluation
+
+• Expression parsing
+• Dynamic result calculation
+• Error handling (e.g., division by zero)
+• Real-time UI update after evaluation
+
+![Calculator Result](screenshots/file2.png)
+
+---
+
+# 🚀 Core Features
+
+• Arithmetic expression handling
+• Stateful widget logic
+• Button press event handling
+• Dynamic UI updates
+• Error handling for invalid expressions
+• Clean and minimal interface
+
+---
+
+# 🧠 Concepts Applied
+
+• Stateful Widget Management
+• setState() for UI updates
+• Dart arithmetic logic
+• Conditional logic handling
+• UI layout using GridView / Column / Row
+• Responsive design principles
+
+---
+
+# 🗄 Tech Stack
+
+• Flutter
+• Dart
+
+---
+
+# 🔄 Application Flow
+
+User Input → Update Expression → Evaluate Logic → Display Result
+
+---
+
+# 📦 Installation
+
+```bash
+git clone <repository-url>
+cd calculator_app
+flutter pub get
+flutter run
+```
+
+---
+
+# 📌 Summary
+
+This Calculator App demonstrates foundational Flutter development skills including UI structuring, state handling, arithmetic logic implementation, and interactive user input management.
+
+It serves as a strong beginner-to-intermediate project showcasing logical thinking and UI responsiveness.
+
+---
+
+💡 Built with focus on clean UI design and practical Flutter fundam
