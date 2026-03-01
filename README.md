@@ -16,8 +16,6 @@ The calculator performs real-time mathematical operations with a smooth and mini
 • Responsive design
 • Basic arithmetic operations
 
-![Calculator Home](screenshots/file0.png)
-
 ---
 
 ## ➕ 2️⃣ Performing Operations
@@ -31,8 +29,6 @@ Supports:
 • Decimal operations
 • Clear (C) & Delete (⌫) functions
 
-![Calculator Operation](screenshots/file1.png)
-
 ---
 
 ## 🧠 3️⃣ Result Evaluation
@@ -41,8 +37,6 @@ Supports:
 • Dynamic result calculation
 • Error handling (e.g., division by zero)
 • Real-time UI update after evaluation
-
-![Calculator Result](screenshots/file2.png)
 
 ---
 
